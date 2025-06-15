@@ -8,7 +8,7 @@ This open-source project showcases the **Decision Tree algorithm** for machine l
 - **Scalable**: Lightweight for local or cloud execution.
 
 ## Project Structure
-
+```
 decision-tree-chip-design/
 ├── README.md
 ├── requirements.txt
@@ -20,6 +20,7 @@ decision-tree-chip-design/
 └── data/
     ├── chip_defect_data.csv
     └── decision_tree_metrics.txt
+```
 
 ## Getting Started
 
