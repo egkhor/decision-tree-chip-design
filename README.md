@@ -32,7 +32,7 @@ This open-source project showcases the **Decision Tree algorithm** for machine l
 - Generates `chip_defect_data.csv` and `decision_tree_metrics.txt` with model accuracy (~80%).
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) to add datasets, models, or visualizations.
+See [CONTRIBUTING.md](CONTRIBUTING.markdown) to add datasets, models, or visualizations.
 
 ## License
 MIT License. See [LICENSE](LICENSE).
