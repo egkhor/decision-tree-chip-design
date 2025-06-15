@@ -7,6 +7,20 @@ This open-source project showcases the **Decision Tree algorithm** for machine l
 - **Synthetic Dataset**: 1,000 samples for prototyping.
 - **Scalable**: Lightweight for local or cloud execution.
 
+## Project Structure
+
+decision-tree-chip-design/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE
+├── src/
+│   └── decision_tree_defect_prediction.py
+└── data/
+    ├── chip_defect_data.csv
+    └── decision_tree_metrics.txt
+
 ## Getting Started
 
 ### Prerequisites
