@@ -7,6 +7,10 @@ This open-source project showcases the **Decision Tree algorithm** for machine l
 - **Synthetic Dataset**: 1,000 samples for prototyping.
 - **Scalable**: Lightweight for local or cloud execution.
 
+## Why Decision Trees vs. LLMs?
+Decision Trees: Ideal for structured data (e.g., chip metrics), offering simplicity, interpretability, and low compute needs. Perfect for defect prediction tasks.
+LLMs (e.g., DistilBERT): Excel in text analysis (e.g., design notes) but require more data and compute resources, less suited for tabular data tasks like defect prediction.
+
 ## Project Structure
 ```
 decision-tree-chip-design/
